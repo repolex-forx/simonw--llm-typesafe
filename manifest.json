@@ -1,0 +1,30 @@
+{
+  "manifest_version": "1.0",
+  "org": "simonw",
+  "repo": "llm-typesafe",
+  "versions": [
+    {
+      "commit": "225932cfde461ee6e38ae2b612040c50c086db8c",
+      "parsed_at": "2026-10-20T10:12:27.170103+00:00",
+      "tag": "0.1a0",
+      "filetree": "filetree/225932cfde461ee6e38ae2b612040c50c086db8c.nq.gz",
+      "blobs": [
+        "blob/62d78ba3bcb8239f30f6e6ac35a6344826524312.nq.gz",
+        "blob/25e01603a2346de7f84cee33e3810eccf5cdc524.nq.gz",
+        "blob/8433b121acb46137ab14ed4ad03d09dc3bbcbe5d.nq.gz",
+        "blob/a04993d4f91c69f728cef83bfc34b11054936e89.nq.gz",
+        "blob/dd6387adbca3ab87ab855d7bd355071cb445fff5.nq.gz",
+        "blob/d0d5ce3ee8fa6494d61b4f902ee7d8de943e1b36.nq.gz",
+        "blob/509b705179c90d07a9e8ae813cafaf7259b5f399.nq.gz",
+        "blob/261eeb9e9f8b2b4b0d119366dda99c6fd7d35c64.nq.gz",
+        "blob/8c853af6d83c999b7e95de091fa67ab965ee0493.nq.gz",
+        "blob/38ba85e698cbdabd0c7e5aa5abe7b2fb6a4fd5a0.nq.gz"
+      ]
+    }
+  ],
+  "commit": "commit/commit.nq.gz",
+  "branch": "branch/branch.nq.gz",
+  "tag": "tag/tag.nq.gz",
+  "issue": "issue/issue.nq.gz",
+  "pr": "pr/pr.nq.gz"
+}
