@@ -1,0 +1,11 @@
+{
+  "org": "simonw",
+  "repo": "llm-typesafe",
+  "versions": [
+    {
+      "commit": "225932cfde461ee6e38ae2b612040c50c086db8c",
+      "tag": "0.1a0",
+      "parsed_at": "2026-10-20T10:14:17.675397+00:00"
+    }
+  ]
+}
